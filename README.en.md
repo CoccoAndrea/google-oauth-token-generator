@@ -46,7 +46,7 @@ This Python project generates an **OAuth 2.0 access token** to be used in other 
 
 ```bash
 git clone https://github.com/CoccoAndrea/google-oauth-token-generator.git
-cd your-repo-name
+cd google-oauth-token-generator
 ```
 
 2. **Install dependencies:**
