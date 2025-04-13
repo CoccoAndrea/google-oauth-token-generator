@@ -1,2 +1,4 @@
-# google-oauth-token-creator
-Generate OAuth 2.0 tokens for Gmail and Google Drive with a simple Python script. Ideal for testing and integrating Google APIs.
+# 📘 Google Oauth Token Generator
+
+🇮🇹 Leggi in italiano → [README.it.md](README.it.md)  
+🇬🇧 Read in English → [README.en.md](README.en.md)
