@@ -60,6 +60,14 @@ pip install -r requirements.txt
 Make sure the `credentials.json` file (from [Google Cloud Console](https://console.cloud.google.com/apis/credentials)) is located in the project root.
 
 ---
+## 📬 Change the test email address
+
+In the `main.py` file, edit the `TEST_EMAIL` variable:
+
+```python
+TEST_EMAIL = "youremail@example.com"
+```
+---
 
 ## ▶️ Usage
 
@@ -81,15 +89,6 @@ The program will:
 
 The first run will open a browser window to authorize access to your Google account. The token will be saved in `token.json`.
 
----
-
-## 📬 Change the test email address
-
-In the `main.py` file, edit the `TEST_EMAIL` variable:
-
-```python
-TEST_EMAIL = "youremail@example.com"
-```
 
 ---
 
