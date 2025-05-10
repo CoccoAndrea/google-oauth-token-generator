@@ -60,6 +60,14 @@ pip install -r requirements.txt
 Assicurati di avere il file `credentials.json` (ottenuto da [Google Cloud Console](https://console.cloud.google.com/apis/credentials)) nella root del progetto.
 
 ---
+## 📬 Modifica l'indirizzo email di test
+
+Nel file `main.py`, modifica la variabile `TEST_EMAIL`:
+
+```python
+TEST_EMAIL = "youremail@example.com"
+```
+---
 
 ## ▶️ Come si usa
 
@@ -83,15 +91,6 @@ La prima esecuzione aprirà una finestra del browser per autorizzare l'accesso a
 
 ---
 
-## 📬 Modifica l'indirizzo email di test
-
-Nel file `main.py`, modifica la variabile `TEST_EMAIL`:
-
-```python
-TEST_EMAIL = "youremail@example.com"
-```
-
----
 
 ## 📄 Licenza
 
